@@ -1,0 +1,14 @@
+<script>start("c:\\flame project\\flame_game\\build\\web\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1739704924,"2/16/25, 12:22:04 PM");</script>
+<script>addRow("canvaskit","canvaskit",1,0,"0 B",1739704898,"2/16/25, 12:21:38 PM");</script>
+<script>addRow("icons","icons",1,0,"0 B",1739704926,"2/16/25, 12:22:06 PM");</script>
+<script>addRow(".last_build_id",".last_build_id",0,32,"32 B",1739704927,"2/16/25, 12:22:07 PM");</script>
+<script>addRow("favicon.png","favicon.png",0,917,"917 B",1739541796,"2/14/25, 3:03:16 PM");</script>
+<script>addRow("flutter_bootstrap.js","flutter_bootstrap.js",0,8061,"7.9 kB",1739704898,"2/16/25, 12:21:38 PM");</script>
+<script>addRow("flutter_service_worker.js","flutter_service_worker.js",0,8515,"8.3 kB",1739704927,"2/16/25, 12:22:07 PM");</script>
+<script>addRow("flutter.js","flutter.js",0,7735,"7.6 kB",1739552147,"2/14/25, 5:55:47 PM");</script>
+<script>addRow("index.html","index.html",0,1239,"1.2 kB",1739704898,"2/16/25, 12:21:38 PM");</script>
+<script>addRow("main.dart.js","main.dart.js",0,1105906,"1.1 MB",1739704923,"2/16/25, 12:22:03 PM");</script>
+<script>addRow("manifest.json","manifest.json",0,951,"951 B",1739613951,"2/15/25, 11:05:51 AM");</script>
+<script>addRow("version.json","version.json",0,53,"53 B",1739704924,"2/16/25, 12:22:04 PM");</script>
